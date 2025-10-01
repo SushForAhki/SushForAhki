@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on: **My own game studio & creative projects**  
-- 🌱 I’m learning: **Python, C#, JavaScript, HTML/CSS**  
+- 🌱 I’m learning: **C++,C,Asm**  
 - 🎮 Passion: Creating **games & tools** that feel alive  
 - ⚡ Fun fact: I treat coding like a real-life RPG game!  
 
