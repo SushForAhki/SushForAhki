@@ -14,24 +14,25 @@
 
 ## 🚀 Tech & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,github,git,vscode,unity" />
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,github,git,vscode,unity,blender" />
 </p>
 
 ---
 
+---
 
 ## 🎯 Featured Projects
-🌟 **[My Studio Project](#)** – Roblox/Unity inspired studio in Python & C#  
-🌟 **[Brickscy Streets](#)** – GTA-like 2D/3D browser game (JS, HTML, CSS)  
-🌟 **[Creative Tools](#)** – Coding studio with custom scripting system  
+🌟 **[My Studio Project](https://github.com/SushForAhki/)** – Roblox/Unity inspired studio in Python & C#  
+🌟 **[Brickscy Streets](https://github.com/SushForAhki/)** – GTA-like 2D/3D browser game (JS, HTML, CSS)  
+🌟 **[Creative Tools](https://github.com/SushForAhki/)** – Coding studio with custom scripting system  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ahkigame"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:ahmetkemalsekerci@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SushForAhki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://discord.com/users/ahki_game_07_54935"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 ---
