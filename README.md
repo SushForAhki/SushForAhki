@@ -19,15 +19,6 @@
 
 ---
 
----
-
-## 🎯 Featured Projects
-🌟 **[My Studio Project](https://github.com/SushForAhki/)** – Roblox/Unity inspired studio in Python & C#  
-🌟 **[Brickscy Streets](https://github.com/SushForAhki/)** – GTA-like 2D/3D browser game (JS, HTML, CSS)  
-🌟 **[Creative Tools](https://github.com/SushForAhki/)** – Coding studio with custom scripting system  
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:ahmetkemalsekerci@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
