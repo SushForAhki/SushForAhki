@@ -14,18 +14,11 @@
 
 ## 🚀 Tech & Tools I Use
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,github,git,vscode,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,github,git,vscode,unity" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahkigame&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahkigame&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 🎯 Featured Projects
 🌟 **[My Studio Project](#)** – Roblox/Unity inspired studio in Python & C#  
